@@ -1,0 +1,44 @@
+{
+  "name": "alfred-trello",
+  "version": "1.1.8",
+  "description": "Trello for Alfred",
+  "license": "MIT",
+  "repository": "mblode/alfred-trello",
+  "author": {
+    "name": "mblode",
+    "email": "m.blode@gmail.com",
+    "url": "https://matthewblode.com/"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava",
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "files": [
+    "src/board.js",
+    "src/add.js",
+    "src/post.js",
+    "src/tasks.js",
+    "icon.png",
+    "info.plist"
+  ],
+  "keywords": [
+    "alfred",
+    "workflow",
+    "alfy"
+  ],
+  "dependencies": {
+    "alfred-notifier": "^0.2.3",
+    "alfy": "^0.8.0",
+    "axios": "^0.18.0",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "alfy-test": "^0.3.0",
+    "ava": "^1.0.1",
+    "xo": "^0.23.0"
+  }
+}
