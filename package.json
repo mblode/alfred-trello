@@ -34,7 +34,7 @@
     "alfred-notifier": "^0.2.3",
     "alfy": "^0.8.0",
     "axios": "^0.18.0",
-    "lodash": "^4.17.11"
+    "lodash": ">=4.17.5"
   },
   "devDependencies": {
     "alfy-test": "^0.3.0",
