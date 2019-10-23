@@ -10,7 +10,6 @@ $ npm install --global alfred-trello
 
 *Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 
-
 ## Commands
 
 - In Alfred, type `t` and your query to search for your Trello boards. Press <kbd>Enter</kbd> to open the board's URL.
