@@ -1,6 +1,6 @@
 {
   "name": "alfred-trello",
-  "version": "1.1.9",
+  "version": "1.2.0",
   "description": "Trello for Alfred",
   "license": "MIT",
   "repository": "mblode/alfred-trello",
@@ -32,13 +32,13 @@
   ],
   "dependencies": {
     "alfred-notifier": "^0.2.3",
-    "alfy": "^0.8.0",
-    "axios": "^0.18.0",
-    "lodash": ">=4.17.5"
+    "alfy": "^0.9.1",
+    "axios": "^0.19.0",
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
     "alfy-test": "^0.3.0",
-    "ava": "^1.0.1",
-    "xo": "^0.23.0"
+    "ava": "^2.4.0",
+    "xo": "^0.25.3"
   }
 }
