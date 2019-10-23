@@ -1,12 +1,12 @@
 {
   "name": "alfred-trello",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Trello for Alfred",
   "license": "MIT",
   "repository": "mblode/alfred-trello",
   "author": {
     "name": "mblode",
-    "email": "m.blode@gmail.com",
+    "email": "m@blode.co",
     "url": "https://matthewblode.com/"
   },
   "engines": {

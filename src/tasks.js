@@ -18,7 +18,6 @@ alfy.fetch('https://trello.com/1/boards/' + BOARD + '/cards/visible?key='+ KEY +
 				uid: x.id,
 				title: x.name,
 				autocomplete: x.name,
-				// subtitle: label.join(', '),
 				arg: x.url,
 			};
 		});

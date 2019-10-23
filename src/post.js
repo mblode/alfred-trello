@@ -12,5 +12,7 @@ alfredNotifier();
 let apiCall =
 	"https://api.trello.com/1/cards?name=" + alfy.input + "&pos=bottom&idList=" + LIST + "&key=" + KEY + "&token=" + TOKEN;
 
+console.log(alfy.input);
+
 axios.post(apiCall);
 
