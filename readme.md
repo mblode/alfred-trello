@@ -1,6 +1,6 @@
-# Trello Alfred 3 Workflow
+# Trello Alfred 4 Workflow
 
-> Alfred 3 workflow for Trello. Search your boards, quickly add cards, and view list of cards from Trello right in Alfred.
+> Alfred 4 workflow for Trello. Search your boards, quickly add cards, and view list of cards from Trello right in Alfred.
 
 ## Install
 
