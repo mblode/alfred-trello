@@ -28,4 +28,4 @@ $ npm install --global alfred-trello
 
 ## License
 
-MIT © [mblode](https://matthewblode.com)
+MIT © [mblode](https://blode.co)
